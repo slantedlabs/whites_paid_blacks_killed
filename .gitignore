@@ -1,0 +1,4 @@
+images/**
+
+# The IPUMS data file is too big for GitHub
+ipums_RaceStateIncome.csv
